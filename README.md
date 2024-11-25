@@ -2,7 +2,7 @@
 
 Welcome to the **Voting DApp**! This decentralized application allows users to create polls, participate as contestants, and cast votes in a transparent, blockchain-based system. Designed with a focus on simplicity and security, this platform showcases the power of smart contracts and a decentralized voting process.
 
-![Full Page](/voting-dapp-fullpage.png)
+![Full Page](/voting-dapp-rezaul-karim-fullpage.png)
 
 ## Live Site Demo
 
